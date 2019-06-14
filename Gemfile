@@ -9,6 +9,7 @@ gem 'rails', '~> 5.2.3'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stripe'
 gem 'jquery-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
@@ -32,7 +33,6 @@ gem 'redis-rails'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
